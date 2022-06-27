@@ -9,7 +9,8 @@ tags: [CTFs,picoCtf,crypto]
 ---
 
 
-#NSA
+NSA Backdoor
+
 
 In this challenge we are given the public key (n,e=3), the ciphertext and the code used to generate it, there's also a hint in which they mentioned Mr. Wong's whitepaper (https://eprint.iacr.org/2016/644.pdf). by reading the paper and doing some research, the solution is pretty clear:
 
