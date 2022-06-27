@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: gR3yh4t5 Web
 
 # Your name to show in the footer
-author: Some Person
+author: Cyberguru
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About qR3yh4t5: "A group of cybersecurity enthusiast who are willing to learn more of the ins and outs of the cyberworld by particpating in CTFs, learning vulnerability in new technolohy "
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,13 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  #email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #facebook: deanattali
+  github: gR3yh4t5
+  ctftime: ctftime.org/team/184215
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -63,7 +64,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+  discord: https://discord.gg/SjKne5PS
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -217,7 +218,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Nigeria-Lagos"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
