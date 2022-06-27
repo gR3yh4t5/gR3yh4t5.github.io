@@ -28,8 +28,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
-
+title-img: "/assets/img/WhatsApp Image 2022-06-27 at 6.39.35 AM (1).jpeg"
 
 # --- Footer social media links --- #
 
@@ -111,7 +110,7 @@ hover-col: "#0085A1"
 footer-col: "#006400"
 footer-text-col: "#777777"
 footer-link-col: "#006400"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#00008B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
