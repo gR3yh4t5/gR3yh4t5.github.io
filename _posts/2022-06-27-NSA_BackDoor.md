@@ -2,7 +2,6 @@
 layout: post
 title: NSA Backdoor
 subtitle: Crypto
-cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/pico.jpeg
 share-img: /assets/img/pico.jpeg
 tags: [CTFs,picoCtf,crypto]
