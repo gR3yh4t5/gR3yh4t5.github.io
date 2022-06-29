@@ -17,6 +17,8 @@ In this challenge we are given the public key (n,e=3), the ciphertext and the co
 1.Find the primes:
 
 since p and q are smooth numbers we can use pollard p-1 to get one of them (I used the primefac library for this purpose):
+
+
 `
 import gmpy2
 
